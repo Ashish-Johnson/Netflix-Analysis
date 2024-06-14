@@ -4,7 +4,9 @@ Welcome to my professional portfolio on GitHub. Here you can find projects, scri
 
 ## Interactive Dashboards
 To see interactive visualizations of some of the data projects featured here, visit my Power BI dashboard:
-[View My Power BI Dashboard](https://app.powerbi.com/...)
+[View My Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=42ad8f97-4670-48fd-aee3-156b02e07a46&autoAuth=true&ctid=4a5378f9-29f4-4d3e-be89-669d03ada9d8) 
+
+### <ins> Check the Wiki for insights of the analysis </ins>
 
 # Overview of How to Perform the Netflix Titles Analysis
 ## Step-by-Step Guide
