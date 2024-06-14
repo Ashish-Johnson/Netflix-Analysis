@@ -1,3 +1,11 @@
+# Ashish's Portfolio
+
+Welcome to my professional portfolio on GitHub. Here you can find projects, scripts, and analyses that showcase my skills in data analytics and programming.
+
+## Interactive Dashboards
+To see interactive visualizations of some of the data projects featured here, visit my Power BI dashboard:
+[View My Power BI Dashboard](https://app.powerbi.com/...)
+
 # Overview of How to Perform the Netflix Titles Analysis
 ## Step-by-Step Guide
 ### Data Collection
@@ -44,3 +52,8 @@ Data Preparation
 * Explore correlations between different variables such as IMDb scores, TMDB scores, and the number of votes.
 * Calculate correlation coefficients to quantify relationships.
 * Visualize the correlations using scatter plots with trend lines.
+
+## Contact
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ashishjohnson/) or view my other social media profiles linked in this repository.
+
+Thank you for visiting my portfolio!
